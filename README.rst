@@ -2,6 +2,8 @@ Cloned from https://github.com/rdegges/skele-cli.git as a basis for my 'prn' (or
 
 Nothing fancy, just testing the template. Want to build *maintainable* cmdline programs. This seems to be a good way.
 
+Randall Degges blog which made me want to try skele: https://stormpath.com/blog/building-simple-cli-interfaces-in-python/ 
+
 Usage
 -----
 
